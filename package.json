@@ -1,10 +1,10 @@
 {
-  "name": "horeca",
+  "name": "sitcon-product-api",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.6.7"
+    "node-fetch": "^2.6.7",
+    "fast-xml-parser": "^4.3.1"
   }
 }
